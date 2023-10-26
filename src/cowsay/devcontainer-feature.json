@@ -1,0 +1,10 @@
+{
+    "name": "Cowsay",
+    "id": "cowsay",
+    "version": "1.0.0",
+    "description": "A Feature where a cow says hello",
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/common-utils"
+    ],
+    "postCreateCommand": "cowsay 'Hello from Cowsay!'"
+}

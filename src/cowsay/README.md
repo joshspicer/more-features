@@ -1,26 +1,20 @@
 
-# Hello, World! (hello)
+# Cowsay (cowsay)
 
-A hello world feature
+A Feature where a cow says hello
 
 ## Example Usage
 
 ```json
 "features": {
-    "ghcr.io/devcontainers/feature-starter/hello:1": {
-        "version": "latest"
-    }
+    "ghcr.io/joshspicer/more-features/cowsay:1": {}
 }
 ```
 
-## Options
 
-| Options Id | Description | Type | Default Value |
-|-----|-----|-----|-----|
-| greeting | Select a pre-made greeting, or enter your own | string | hey |
 
 
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/devcontainers/feature-starter/blob/main/src/hello/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/joshspicer/more-features/blob/main/src/cowsay/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
